@@ -1,0 +1,30 @@
+Genesis|1|1|1|God created the heavens and the earth.
+Joshua|1|9|9|Be strong and courageous; the Lord your God is with you wherever you go.
+Psalms|23|1|1|The Lord cares for me as a shepherd cares for his sheep.
+Psalms|46|10|10|Be still and recognize that God is God.
+Proverbs|3|5|6|Trust the Lord completely, acknowledge Him, and He will guide your path.
+Isaiah|41|10|10|Do not fear, for God is with you and will strengthen you.
+Matthew|5|14|16|Let your light shine so others may glorify your Father in heaven.
+John|3|16|16|God loved the world and gave His Son so believers may have eternal life.
+1 Nephi|3|7|7|The Lord prepares a way for His children to do what He commands.
+2 Nephi|2|25|25|Adam fell so people could have joy.
+2 Nephi|2|27|27|People are free to choose liberty and eternal life through Christ.
+Mosiah|2|17|17|When we serve others, we are serving God.
+Alma|32|21|21|Faith is hope in things that are true but not yet seen.
+Alma|37|6|6|Small and simple things can bring about great results.
+Helaman|5|12|12|Build your foundation on Christ so the storms cannot overcome you.
+Moroni|10|4|5|Ask God sincerely about the truth, and the Holy Ghost can reveal it.
+Doctrine and Covenants|6|36|36|Look to Christ in every thought and do not doubt or fear.
+Doctrine and Covenants|8|2|2|The Lord speaks to the mind and heart through the Holy Ghost.
+Doctrine and Covenants|18|10|10|Every person is precious in God's sight.
+Doctrine and Covenants|19|23|23|Learn of Christ, listen to His words, and walk in His Spirit.
+Doctrine and Covenants|58|27|27|Be anxiously engaged in doing good things by your own free will.
+Doctrine and Covenants|82|10|10|The Lord is bound when we do what He says.
+Doctrine and Covenants|88|118|118|Seek learning through study and also through faith.
+Doctrine and Covenants|121|7|8|Hard times are temporary; God will bless and strengthen the faithful.
+Moses|1|39|39|God's work and glory are to bring about human immortality and eternal life.
+Moses|6|34|34|Walk with God, and He will guide and protect you.
+Abraham|3|22|23|God's noble spirits existed before the world and were chosen for His purposes.
+Joseph Smith History|1|17|17|Joseph was told to seek wisdom from God, who gives generously.
+Articles of Faith|1|4|4|The first principles include faith, repentance, baptism, and the gift of the Holy Ghost.
+Joseph Smith Matthew|1|36|37|The Lord teaches His disciples to watch and be ready for His coming.
